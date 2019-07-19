@@ -5,8 +5,10 @@ function doSomething(array) {
 
   var string = "hello"
   if (array.length === 0) {
-    return string
+    string = "I'm empty"
   }
+
+  return string
 
 
 }
