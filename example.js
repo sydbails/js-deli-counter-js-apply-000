@@ -5,7 +5,7 @@ function doSomething(array) {
 
   var string = "hello"
   if (array.length === 0) {
-    return "something";
+    return string
   }
 
 
