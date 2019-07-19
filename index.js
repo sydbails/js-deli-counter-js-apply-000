@@ -29,7 +29,7 @@ function takeANumber(line, name) {
 
 function currentLine (line) {
   if (line.length === 0) {
-      return "The line is currently empty."  
+      return "The line is currently empty."
   } else {
     // start your string
 
@@ -41,5 +41,4 @@ function currentLine (line) {
 
 // returns
 "The line is currently: [Object array]"
-"The line is currently: ["Ada", "Grace"]" 
-
+"The line is currently: ["Ada", "Grace"]"
